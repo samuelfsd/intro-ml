@@ -16,4 +16,4 @@ wheels/
 *.joblib
 
 # docs
-docs/roteiro/
+docs/
